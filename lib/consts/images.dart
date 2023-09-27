@@ -38,7 +38,8 @@ const icProfile = "assets/icons/profile.png";
 const icRefund = "assets/icons/refund.png";
 const icSearch = "assets/icons/search.png";
 const icShop = "assets/icons/shop.png";
-const icSplashBg = "assets/icons/splash_login_registration_background_image.png";
+const icSplashBg =
+    "assets/icons/splash_login_registration_background_image.png";
 const icSquareLogo = "assets/icons/square_logo.png";
 const icTodaysDeal = "assets/icons/todays_deal.png";
 const icTopCategories = "assets/icons/top_categories.png";
@@ -46,6 +47,7 @@ const icTopSeller = "assets/icons/top_sellers.png";
 const icTrash = "assets/icons/trash.png";
 const icTwitterLogo = "assets/icons/twitter_logo.png";
 const icWallet = "assets/icons/wallet.png";
+
 const icWhiteTick = "assets/icons/white_tick.png";
 const icWholeSale = "assets/icons/wholesale.png";
 
@@ -98,7 +100,7 @@ const imgPi2 = "assets/images/pi2.jpg";
 const imgPi3 = "assets/images/pi3.jpg";
 const imgPi4 = "assets/images/pi4.jpg";
 const imgPi5 = "assets/images/pi5.jpg";
-const imgProfile2 = "assets/images/profile_image_joya_ahsan.jpg";
+const imgProfile2 = "assets/images/b1.jpeg";
 const imgProfile = "assets/images/profile_image.png";
 const imgRavePayment = "assets/images/rave_payment.png";
 const imgRozarpay = "assets/images/rozarpay.png";
@@ -128,3 +130,4 @@ const imgStripe = "assets/images/stripe.png";
 const imgTwocheckout = "assets/images/twocheckout.png";
 const imgVogue = "assets/images/vogue.png";
 const imgWallet = "assets/images/wallet.png";
+const profileimg = "assets/images/b1.jpeg";
