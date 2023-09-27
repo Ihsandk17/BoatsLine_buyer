@@ -1,4 +1,4 @@
-# emart_app
+# boatsline
 
 A new Flutter project.
 
